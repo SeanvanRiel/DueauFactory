@@ -1,2 +1,3 @@
-# DueauFactory
-Du'eau Factory
+# Du'eau Factory
+
+Du'eau Factory.
